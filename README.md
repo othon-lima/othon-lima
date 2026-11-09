@@ -6,4 +6,4 @@ These days, I work on bridge management software used by most US state transport
 
 - 🛠️ **I work with:** Vue, TypeScript, C#/.NET and SQL
 - 📍 **I live in:** Charlottetown, PEI, Canada
-- 📫 **Say hi:** othonlimaa@gmail.com or [LinkedIn](https://www.linkedin.com/in/othon-lima)
+- 📫 **Say hi:** [LinkedIn](https://www.linkedin.com/in/othon-lima)
